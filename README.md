@@ -14,7 +14,7 @@
 - [第4章 快速排序](./算法图解/chap04-快速排序.ipynb)
 - [第5章 散列表](./算法图解/chap05-散列表.ipynb)
 - [第6章 广度优先搜索](./算法图解/chap06-广度优先搜索.ipynb)
-- [第7章 狄克斯特拉算法](./算法图解/chap07-狄克斯特拉算法Dijkstra’s algorithm.ipynb)
+- [第7章 狄克斯特拉算法](./算法图解/chap07-狄克斯特拉算法Dijkstra’s-algorithm.ipynb)
 - [第8章 贪婪算法](./算法图解/chap08-贪婪算法.ipynb)
 - [第9章 动态规划](./算法图解/chap09-动态规划.ipynb)
 
